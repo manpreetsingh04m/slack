@@ -1,0 +1,29 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+  background-color: #4A164B;px;
+}
+nav{
+  height: 5vh;
+  width: 100vw;
+  background-color: #4A164B;
+  position: fixed;
+  display: flex;
+
+
+}
+#cont{
+  display: flex;
+  color: white;
+  position: absolute;
+  right: 100px;
+  width: 45vw;
+  justify-content: space-around;
+  top: 9px;
+  
+}
+#img{
+  position: relative;
+  left: 50px;
+}
